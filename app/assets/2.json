@@ -1,0 +1,26 @@
+{
+    "name": "Lodger",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {   
+          "address": "CNLLfD6ECn1yn5bbs7FvfFfZWLBkevTikuKjSvt1KPBL",
+          "share": 100
+        }
+      ]
+
+    },
+    "collection": [
+      {
+          "name": "Lodger",
+          "family": "The Berlin Trilogy"
+      }
+    ]
+  }

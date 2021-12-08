@@ -1,6 +1,6 @@
 .App {
   height: 100vh;
-  background-color: rgb(20, 20, 20);
+  background-color: #b96421;
   overflow: scroll;
   text-align: center;
   overflow: hidden;
@@ -30,10 +30,16 @@
 
 .header {
   margin: 0;
+  padding: 20px 20px 20px 20px;
   font-size: 50px;
   font-weight: bold;
 }
 
+.bowie-pic {
+  width: 600px;
+  padding: 10px 10px 10px 10px;
+
+}
 .sub-text {
   font-size: 25px;
 }
@@ -59,16 +65,18 @@
 
 .connect-wallet-button {
   color: white;
-  background: -webkit-linear-gradient(left, #ff8867, #ff52ff);
+  background: -webkit-linear-gradient(left, #ede04d, #2b2418);
   background-size: 200% 200%;
   animation: gradient-animation 4s ease infinite;
 }
 
 .mint-button {
-  background: -webkit-linear-gradient(left, #4e44ce, #35aee2);
+  background: -webkit-linear-gradient(left, #f1a745, #402e1f);
   background-size: 200% 200%;
   animation: gradient-animation 4s ease infinite;
-  margin-left: 10px;
+  max-width: 540px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .footer-container {
